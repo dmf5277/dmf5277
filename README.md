@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @dmf5277
-Danielle Feger, MS
-Current Epidemiology PhD Candidate at Johns Hopkins Bloomberg School of Public Health
+Danielle Feger, MS\
+Current Epidemiology PhD Candidate at Johns Hopkins Bloomberg School of Public Health\
 
 - 🧬 I’m interested in ...
-Identifying patterns of decline in instrumental activities of daily living (IADLs), and if specific patterns are predictive of future dementia
-Cognitive decline
-Healthy aging
-Resiliency in older adults
+Identifying patterns of decline in instrumental activities of daily living (IADLs), and if specific patterns are predictive of future dementia.
+Cognitive decline.
+Healthy aging.
+Resiliency in older adults.
 
 - ✍️ How to reach me:
 dmf5277@gmail.com
